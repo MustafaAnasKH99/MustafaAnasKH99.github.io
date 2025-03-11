@@ -6,6 +6,6 @@ export default {
 		extend: {},
 	},
 	plugins: [require("@tailwindcss/typography")],
-	site: 'https://MustafaAnasKH99/.github.io',
-	base: 'my-repo',
+	// site: 'https://MustafaAnasKH99/.github.io',
+	// base: 'my-repo',
 };
