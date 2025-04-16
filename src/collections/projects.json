@@ -4,5 +4,11 @@
 		"description": "Syria news aggregator and AI powered analysis.",
 		"image": "/assets/images/projects/eyes.png",
 		"url": "https://eyes-on-sy.streamlit.app/"
+	},
+	{
+		"name": "Spotify Graph Analysis",
+		"description": "Running analysis on archived spotify data from kaggle.",
+		"image": "/assets/images/projects/spotify_python.png",
+		"url": "https://github.com/MustafaAnasKH99/4414-graph-analysis//"
 	}
 ]
