@@ -3,7 +3,7 @@
 		"name": "EyesOnSyria",
 		"description": "Syria news aggregator and AI powered analysis.",
 		"image": "/assets/images/projects/eyes.png",
-		"url": "https://eyes-on-sy.streamlit.app/"
+		"url": "https://eyes-on-syria.streamlit.app/"
 	},
 	{
 		"name": "Spotify Graph Analysis",
