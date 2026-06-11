@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Guess The Word",
+		"description": "Uses word embeddings to store a collection of words and rank them according to closeness. The user then has to guess the chosen word.",
+		"image": "/assets/images/projects/gtw.png",
+		"url": "https://gtw-sable.vercel.app/"
+	},
+	{
 		"name": "EyesOnSyria",
 		"description": "Syria news aggregator and AI powered analysis.",
 		"image": "/assets/images/projects/eyes.png",
